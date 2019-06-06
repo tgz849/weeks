@@ -1,4 +1,5 @@
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\bin\Debug\TEST.exe.config
+<<<<<<< HEAD
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\bin\Debug\TEST.exe
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\bin\Debug\TEST.pdb
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
@@ -7,3 +8,6 @@ D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\obj\Debug\TEST.Propertie
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\obj\Debug\TEST.exe
 D:\一切用作测试用的C#及数据库\6.6\TEST\TEST\obj\Debug\TEST.pdb
+=======
+D:\C#WINFROM课程\fork别人的项目\weeks\TEST\TEST\bin\Debug\TEST.exe.config
+>>>>>>> a48e643e6c664a673df7cb6365946684d523eba6
